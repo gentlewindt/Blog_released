@@ -7,18 +7,9 @@ background: "#f8f9fe"
 comments: true
 type: "about"
 ---
-<style>
-table th:first-of-type {
-    width: 20%;
-}
-table th:nth-of-type(2) {
-    width: 40%;
-}
-
-</style>
 
 
-{% span center logo large, 关于我 %}
+
 欢迎来到我的博客 😝，这里是我记笔记的地方 🙌, 后面的时间我会把一些重要的笔记搬到这里~ ✋记笔记真的是一个很棒的习惯 💪，能把学下来的知识进行积累，沉淀，有一句话说的好，能教给别人的知识，才是真正学会了的知识。
 
 
