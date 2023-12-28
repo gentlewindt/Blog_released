@@ -1,0 +1,293 @@
+- class_name: 广东各地夕阳 # 页面类
+  path_name: /wordScenery # 相册页面的相对路径
+  type: 2 #当前相册页面样式类型
+  description: 因为到不了世界各地，所以请朋友们发来了各地的夕阳与风景🌇。
+  cover: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E4%BB%99%E6%BA%AA%E6%B9%96%E5%A4%95%E9%98%B3.jpg #封面
+  top_background: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E4%BB%99%E6%BA%AA%E6%B9%96%E5%A4%95%E9%98%B3.jpg # 顶层图片
+  rowHeight: 220  #  rowHeight仅当 type 为 2 时有效，相册行高
+  limit: 10 # limit 仅当 type 为 2 时有效，当前相册一次懒加载数量 
+  lazyload: true #当图片出现在浏览器可视区域时，才加载图片。
+  btnLazyload: false # 前相册 lazyload 懒加载的方式，默认为滚动懒加载，开启本选项后为按钮点击懒加载
+  url: false # 仅当 type 为 2 时有效，可以加载远程的 json 数据
+  top_link: /album
+  top_btn_text: 返回
+  album_list: # 当前相册内图片列表
+    - date: 2022-10-25
+      content: 夕阳
+      address: 广东省
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%B9%BF%E4%B8%9C%E5%9C%B0%E5%9B%BE.png
+    - date: 2023/12/27 18:00:00 #创建时间
+      content: 仙溪湖的夕阳 #描述内容
+      address: 仙溪桥 #拍摄地址
+      from: 杰洋 # 图片的创建人，未填写则不显示
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312272154043.jpg # 图片地址
+
+    - date: 2022-10-25
+      content: 夕阳
+      address: 中山
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AD%E5%B1%B1.jpg
+    - date: 2022-10-25
+      content: 夕阳
+      address: 惠州
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%83%A0%E5%B7%9E.jpg
+    - date: 2022-10-25
+      content: 
+      address: 东莞
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E4%B8%9C%E8%8E%9E.jpg 
+    - date: 2022-10-25
+      content: 
+      address: 梅州
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%A2%85%E5%B7%9E.jpg
+    - date: 2022-10-25
+      content: 
+      address: 佛山
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E4%BD%9B%E5%B1%B1.jpg
+    - date: 2022-10-25
+      content: 
+      address: 广州
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%B9%BF%E5%B7%9E.jpg
+    - date: 2022-10-25
+      content: 
+      address: 云浮
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E4%BA%91%E6%B5%AE.jpg
+    - date: 2022-10-25
+      content: 
+      address: 揭阳
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%8F%AD%E9%98%B3.jpg
+    - date: 2022-10-25
+      content: 
+      address: 汕头
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%B1%95%E5%A4%B4.jpg 
+    - date: 2022-10-25
+      content: 
+      address: 河源
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%B2%B3%E6%BA%90.jpg
+    - date: 2022-10-25
+      content: 
+      address: 汕尾
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%B1%95%E5%B0%BE.jpg
+    - date: 2022-10-25
+      content: 
+      address: 珠海
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E7%8F%A0%E6%B5%B7.jpg
+    - date: 2022-10-25
+      content: 
+      address: 江门
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%B1%9F%E9%97%A8.jpg
+    - date: 2022-10-25
+      content: 
+      address: 清远
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%B8%85%E8%BF%9C.jpg
+    - date: 2022-10-25
+      content: 
+      address: 深圳
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%B7%B1%E5%9C%B35.jpg
+    - date: 2022-10-25
+      content: 
+      address: 深圳
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%B7%B1%E5%9C%B34.jpg
+    - date: 2022-10-25
+      content: 
+      address: 深圳
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%B7%B1%E5%9C%B33.jpg
+    - date: 2022-10-25
+      content: 
+      address: 深圳
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%B7%B1%E5%9C%B32.jpg
+    - date: 2022-10-25
+      content: 
+      address: 深圳
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%B7%B1%E5%9C%B31.jpg
+    - date: 2022-10-25
+      content: 
+      address: 湛江
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%B9%9B%E6%B1%9F.jpg
+    - date: 2022-10-25
+      content: 
+      address: 肇庆
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E8%82%87%E5%BA%86.jpg
+    - date: 2022-10-25
+      content: 
+      address: 潮州
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%BD%AE%E5%B7%9E.jpg
+    - date: 2022-10-25
+      content: 
+      address: 茂名
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E8%8C%82%E5%90%8D.jpg
+    - date: 2022-10-25
+      content: 
+      address: 阳江
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E9%98%B3%E6%B1%9F.jpg
+    - date: 2022-10-25
+      content: 
+      address: 韶关
+      from:
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E9%9F%B6%E5%85%B3.jpg 
+
+
+
+- class_name: 十一月
+  path_name: /dailyPhoto
+  type: 1
+  description: 十一月碎片
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224349.jpg
+  cover: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224349.jpg
+  album_list:
+    - date: 2022-10-24
+      content: 21物联网工程全家福
+      image:
+        -  https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224236.jpg
+    - date: 2022-10-24
+      content: 组织班会
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224246.jpg
+    - date: 2022-10-24
+      content: 传媒中心
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224310.jpg
+    - date: 2022-10-24
+      content: 拍拍拍
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224357.jpg
+    - date: 2022-10-24
+      content: 拍拍拍
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224353.jpg
+    - date: 2022-10-24
+      content: 被偷拍
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224254.jpg
+    - date: 2022-10-24
+      content: 撸批集合！
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224250.jpg
+    - date: 2022-10-24
+      content: 阳光下颜色
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224321.jpg
+    - date: 2022-10-24
+      content: 室内颜色
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224325.jpg
+    - date: 2022-10-24
+      content: 谁都不爱
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224332.jpg
+
+
+- class_name: 广州行
+  path_name: /travelGuangdong
+  type: 1
+  description: 来广州找豪哥哥玩了
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224512.jpg
+  cover: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224613.jpg
+  album_list:
+    - date: 2022-10-24
+      content: 沙茶面（豪哥哥请客）
+      image:
+        -  https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224517.jpg
+    - date: 2022-10-24
+      content: 刨冰，好吃！
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224556.jpg
+    - date: 2022-10-24
+      content: 好多，一份够两个人吃
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224609.jpg    
+    - date: 2022-10-24
+      content: 
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224512.jpg
+    - date: 2022-10-24
+      content: 
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224457.jpg
+    - date: 2022-10-24
+      content: 
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224446.jpg
+    - date: 2022-10-24
+      content: 
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224538.jpg
+    - date: 2022-10-24
+      content: 
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224443.jpg
+    - date: 2022-10-24
+      content: 
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224552.jpg
+    - date: 2022-10-24
+      content: （翘嘴了）
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227225107.jpg
+    - date: 2022-10-24
+      content:  留下合照
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224613.jpg
+    - date: 2022-10-24
+      content: 广州十三行博物馆
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224501.jpg
+    - date: 2022-10-24
+      content:  沙面
+      image:
+        - https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227224532.jpg
+

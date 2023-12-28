@@ -1,0 +1,108 @@
+- class_name: 📽️ 荧幕电影 # 电影图标
+  class_desc: # 分类描述
+  link_list:
+    - name: 蜘蛛侠：纵横宇宙
+      score: 5
+      premiere: 已看
+      icon: fa-solid fa-film
+      time: 2021/08/22
+      img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312222323342.webp
+      link: https://movie.douban.com/subject/30391186/
+
+    - name: 蜘蛛侠
+      score: 5
+      premiere: 已看
+      icon: fa-solid fa-film
+      time: 2021/08/22
+      img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312222323341.webp
+      link: https://movie.douban.com/subject/1306612/
+      
+    - name: 超凡蜘蛛侠
+      score: 5
+      premiere: 已看
+      icon: fa-solid fa-film
+      time: 2021/08/22
+      img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312222323343.webp
+      link: https://movie.douban.com/subject/2129132/
+      
+    - name: 蜘蛛侠3
+      score: 5
+      premiere: 已看
+      icon: fa-solid fa-film
+      time: 2021/08/22
+      img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312222323345.webp
+      link: https://movie.douban.com/subject/1418189/
+      
+    - name: 蜘蛛侠2
+      score: 5
+      premiere: 已看
+      icon: fa-solid fa-film
+      time: 2021/08/22
+      img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312222323344.webp
+      link: https://movie.douban.com/subject/1308570/
+
+    - name: 超凡蜘蛛侠2 # 片名
+      score: 5 # 1-5星
+      premiere: 三刷 # N刷
+      icon: fa-solid fa-film # 左上角图标
+      time: 2023/02/13 # 观影时间
+      img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312222323346.webp #图片链接
+      link: https://movie.douban.com/subject/6082518/ # 影片地址
+
+    - name: 钢铁侠
+      score: 5
+      premiere: 已看
+      icon: fa-solid fa-film
+      time: 2021/08/22
+      img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312222323347.webp
+      link: https://movie.douban.com/subject/1432146/
+
+
+- class_name: 📽️ 书 # 电影图标
+  class_desc: # 分类描述
+  link_list:
+    - name: 史蒂夫·乔布斯传
+      score: 5
+      premiere: 已看
+      icon: fa-solid fa-film
+      time: 2021/08/22
+      img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312222338099.jpg
+      link: https://book.douban.com/subject/6798611/
+    - name: 考试脑科学
+      score: 5
+      premiere: 已看
+      icon: fa-solid fa-film
+      time: 2021/08/22
+      img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312222338100.jpg
+      link: https://book.douban.com/subject/33944838/
+    - name: 呐喊
+      score: 5
+      premiere: 已看
+      icon: fa-solid fa-film
+      time: 2021/08/22
+      img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312222338101.jpg
+      link: https://book.douban.com/subject/1449351/
+
+    - name: 边城
+      score: 5
+      premiere: 已看
+      icon: fa-solid fa-film
+      time: 2021/08/22
+      img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312222338102.jpg
+      link: https://book.douban.com/subject/1057244/
+
+    - name: Python编程
+      score: 5
+      premiere: 已看
+      icon: fa-solid fa-film
+      time: 2021/08/22
+      img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312222338103.jpg
+      link: https://book.douban.com/subject/36365320/
+
+    - name: Java核心技术·卷 I
+      score: 5
+      premiere: 已看
+      icon: fa-solid fa-film
+      time: 2021/08/22
+      img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312222338104.jpg
+      link: https://book.douban.com/subject/34898994/

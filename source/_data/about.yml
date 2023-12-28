@@ -1,0 +1,159 @@
+- class_name: 关于页
+  subtitle: 温柔轻盈，缓慢坚定✨
+  avatarImg: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/avator1.jpg
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🎤 音乐迷
+      - 🔍 分享与热心帮助
+      - 🔨 全栈开发一条龙
+    right:
+      - 喜欢交朋友 🤝
+      - 脚踏实地行动派 🏃
+      - 热衷美景 & 美食 🏞️🍕
+      - 妹控 👧🏻
+
+
+  name: 唐凯峰
+  description: 是一名软件开发工程师、学生、独立开发者、博主
+  aboutsiteTips:
+    tips: 追求
+    title1: 珍惜现在拥有的
+    title2: 等待将要得到的   
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: 开始学习编程
+        color: "#357ef5"
+      # - desc: EDU,软件工程专业
+      #   color: "#357ef5"
+      # - desc: EDU,软件工程专业
+      #   color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，佛山市
+    background: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E4%BD%9B%E5%B1%B1%E5%B8%82.png
+    backgroundDark: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E4%BD%9B%E5%B1%B1%E5%B8%82.png
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2002
+    selfInfoTips2: 佛山科学技术学院
+    selfInfoContent2: 物联网工程
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 大三学生👨‍🎓
+  personalities:
+    author_name: 竞选者
+    personality_type: ENFP-A
+    photo_url: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312220015856.jpg # 右侧图片
+    personality_img: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E7%AB%9E%E9%80%89%E8%80%85.svg
+    name_url: https://www.16personalities.com/ch/enfp-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: Stay hungry，
+    maxim_bottom: stay foolish。
+  buff:
+    buff_tips: 爱好
+    buff_top: 尝试一切有意思的事
+    buff_bottom: 音乐技能 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: 英雄联盟
+    game_uid: "ID: 紫海相望"
+    game_bg: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E5%87%AF%E9%9A%90.jpg
+  comic:
+    comic_tips: 爱好电影
+    comic_title: 超级英雄爱好者
+    comic_list:
+      - name: 复仇者联盟
+        href: 
+        cover: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/The%20Avengers.jpg
+      - name: 正义联盟
+        href: 
+        cover: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/justice%20league.jpg
+      - name: 超凡蜘蛛侠
+        href: 
+        cover: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/spiderman.png
+      - name: 钢铁侠
+        href: 
+        cover: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/ironman.jpg
+      - name: 黑袍纠察队
+        href: 
+        cover: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/theboys.webp
+      - name: 死侍
+        href: 
+        cover: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/Deadpool.jpg
+      
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 林俊杰、华语流行
+    music_bg: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/%E6%9E%97%E4%BF%8A%E6%9D%B02.jpg
+    music_link: /music
+  
+  # reward_list:
+  #   - name: 海阔蓝
+  #     amount: 8.8
+  #     datatime: 2023-03-28
+  #   - name: LK66
+  #     amount: 66.6
+  #     datatime: 2023-03-24
+  #   - name: 张时貳
+  #     amount: 6.6
+  #     datatime: 2023-01-22
+  #   - name: ZeroAf
+  #     amount: 9.9
+  #     datatime: 2022-12-14
+  #   - name: LuckyWangXi
+  #     amount: 6.6
+  #     datatime: 2022-12-14
+  #   - name: 刀中日月长
+  #     amount: 10
+  #     datatime: 2022-11-16
+  #   - name: 鹿啵包
+  #     amount: 10
+  #     datatime: 2022-11-08
+  #   - name: 疾速k
+  #     amount: 50
+  #     datatime: 2022-09-20
+  #   - name: 伴舟先生大霖子
+  #     amount: 4.03
+  #     datatime: 2022-10-27
+  #     suffix: 贝壳
+  #   - name: Magica_0x0
+  #     amount: 3.36
+  #     datatime: 2022-10-07
+  #     suffix: 贝壳
+  #   - name: 名字就是要短像这样
+  #     amount: 3.36
+  #     datatime: 2022-08-25
+  #     suffix: 贝壳
+  #   - name: Leviathan520
+  #     amount: 1.34
+  #     datatime: 2022-08-23
+  #     suffix: 贝壳
+  #   - name: 托马斯
+  #     amount: 10
+  #     datatime: 2022-08-19
+  #   - name: 哇是猫猫欸
+  #     amount: 1.34
+  #     datatime: 2022-08-19
+  #     suffix: 贝壳

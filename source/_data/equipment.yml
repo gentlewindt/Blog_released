@@ -1,0 +1,62 @@
+- class_name: 好物
+  description: 实物装备推荐
+  tip: 跟 我 一起享受科技带来的乐趣
+  top_background: https://bu.dusays.com/2023/07/05/64a4c38842b7a.webp
+  good_things:
+    - title: 生产力
+      description: 提升自己生产效率的硬件设备
+      equipment_list:
+        - name: 联想拯救者R9000P 2021 16英寸
+          specification: RTX 3060｜512GB
+          description: 大屏高刷，钟情于背后的大Y灯~
+          image: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312202353962.png
+          link: /posts/571d.html
+        - name: MatePad 11
+          specification: 冰霜银 / 128G
+          description: 无纸化学习的开始
+          image: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312201754087.webp
+          link: https://consumer.huawei.com/cn/tablets/matepad-11-2023/
+        - name: AirPods（第二代）
+          specification: 标准版
+          description: 和亮宝的定情信物❤️
+          image: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312210016080.png
+          link: https://www.apple.com.cn/airpods-3rd-generation/
+    - title: 生活
+      description: 生活中能提升幸福感的物件
+      equipment_list:
+        - name: HUAWEI WATCH GT 2
+          specification: 黑色
+          description: 运动手表，常用来记录运动参数，睡眠时间。早上轻微的震动可以无声的把我唤醒。
+          image: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312201810930.webp
+          link: https://www.apple.com.cn/apple-watch-series-8/   
+        - name: Nike Air MoreUptempo
+          specification: 黑白
+          description: 皮蓬大air真的很好看
+          image: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312201827237.png
+          link: https://item.jd.com/100011269828.html 
+        - name: Nike PG 2.5
+          specification: 灰白
+          description: 第一双球鞋！😍
+          image: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312201827235.png
+          link: https://item.jd.com/100005889786.html
+        - name: Nike Kyrie 4 黑武士
+          specification: 黑色
+          description: 打球很爽
+          image: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312201827236.png
+          link: https://item.jd.com/100005889786.html         
+    # - title: 球鞋
+    #     - name: Nike Air MoreUptempo
+    #       specification: 黑白
+    #       description: 皮蓬大air
+    #       image: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312201827237.png
+    #       link: https://item.jd.com/100011269828.html 
+    #     - name: Nike PG 2.5
+    #       specification: 灰白
+    #       description: 
+    #       image: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312201827235.png
+    #       link: https://item.jd.com/100005889786.html
+    #     - name: Nike Kyrie 4 黑武士
+    #       specification: 黑色
+    #       description: 
+    #       image: https://wind-oss1.oss-cn-guangzhou.aliyuncs.com/typora/202312201827236.png
+    #       link: https://item.jd.com/100005889786.html
